@@ -1,0 +1,34 @@
+{
+	"workbench.colorTheme": "Default Dark Modern",
+	"workbench.startupEditor": "none",
+	"explorer.confirmDelete": false,
+	"workbench.tree.indent": 4,
+	"editor.language.brackets": [],
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"workbench.settings.applyToAllProfiles": ["editor.formatOnPaste"],
+	"explorer.confirmDragAndDrop": false,
+	"workbench.iconTheme": "material-icon-theme",
+	"reactImportSorter.sortingOrder": ["REACT"],
+	"reactImportSorter.separateMultilineImports": true,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.tabSize": 2,
+	"dotnet.help.firstView": "gettingStarted",
+	"extensions.confirmedUriHandlerExtensionIds": [
+		"ms-dotnettools.dotnet-interactive-vscode",
+		"ms-dotnettools.vscode-dotnet-pack"
+	],
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.codeActionsOnSave": {},
+	"prettier.singleQuote": true,
+	"svelte.enable-ts-plugin": true
+}
